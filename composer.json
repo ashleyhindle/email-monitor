@@ -1,0 +1,13 @@
+{
+    "name": "ah/email-monitor",
+    "description": "Monitor an email address",
+    "authors": [
+        {
+            "name": "Ashley Hindle",
+            "email": "hey@ashleyhindle.com"
+        }
+    ],
+    "require": {
+        "php-imap/php-imap": "^2.0"
+    }
+}
